@@ -1,0 +1,56 @@
+#box{
+    border: solid 1px;
+    height: 700px;
+    background-image: url(vg8.jpg);
+    background-repeat: no-repeat;
+    background-size: 1900px 700px;
+
+}
+#head{
+    text-align: center;
+    padding-top:30px;
+    font-family: cursive;
+    font-size: 90px;
+    color: white;
+}
+#title{
+text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(175, 170, 170);
+}
+#title2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(175, 170, 170);
+}
+#title3{
+    text-align: center;
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(175, 170, 170);
+}
+#Register{
+    margin-left: 550px;
+}
+#Register,#Login{
+    height: 60px;
+    width: 200px;
+    background-color: rgb(204, 31, 6);
+    font-size: 23px;
+    border-radius: 20px;
+}
+#Register a,#Login a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+#Register:hover{
+    background-color: rgb(179, 249, 49);
+}
+#Login:hover{
+    background-color: rgb(179, 249, 49);
+
+}

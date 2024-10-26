@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#obox{
+    border: solid 1px;
+    height: 710px;
+    background-image: url(vg14.jpg);
+    background-repeat: no-repeat;
+    background-size: 1535px 710px;
+}
+#navbox{
+    border: solid 1px white;
+    height: 50px;
+
+
+}
+ul li{
+    border: solid 1px wheat;
+    height: 50px;
+    width: 213px;
+    float: left;
+    background-color: rgba(146, 221, 17, 0.797);
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    color: rgb(245, 243, 241);
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul li:hover{
+    background-color: rgb(168, 244, 81);
+}
+#out{
+    border: solid 1px;
+    height: 550px;
+}
+#scrolltext,#scrplltext{
+    color: antiquewhite;
+    font-size: 27px;
+    text-shadow: 5px 5px 7px rgba(99, 213, 12, 0.967);
+
+}
+#welcome{
+    color: blanchedalmond;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 5px 5px 7px rgb(128, 178, 28);
+}
+.manubox{
+    border: solid 1px;
+    height: 190px;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+#manu{
+    border: solid 1px;
+    width: 150px;
+    height: 190px;
+    text-align: center;
+    margin-left: 120px;
+}
